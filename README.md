@@ -1,4 +1,4 @@
-<img src="src/REAME.BOX.Logo.png" width="200" height="170" align="right" />
+<img src="src/REAME.BOX.Logo.png" width="200" height="155" align="right" />
 
 # Best Profile README's 
 
@@ -8,4 +8,4 @@ Here, you can view a list of the top GitHub READMEs along with their previews an
 
 ## Top README's
 
-- [YasinDehfuli](https://github.com/YasinDehfuli#README) - Profile Views, Gif, Skill Table, Contact Button, Most Languages - [Priview](https://GitHub.com/4xmen/README.BOX/README's/YasinDehfuli#README)
+- [YasinDehfuli](https://github.com/YasinDehfuli#README) - Profile Views, Gif, Skill Table, Contact Button, Most Languages - [Priview](https://GitHub.com/4xmen/README.BOX/blob/main/README's/YasinDehfuli/Preview.md)
