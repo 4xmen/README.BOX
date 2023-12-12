@@ -6,7 +6,7 @@
 [//]: # ( Screenshot Demo ⬇️ )
 <div align="center">
 <a href="https://Github.com/YasinDehfuli#README">
-<img src="demo.png" alt="YasinDehfuli's README.md" width="400">
+<img src="demo.png" alt="YasinDehfuli's README.md" width="600">
 </a>
 </div>
 
@@ -120,7 +120,7 @@
 [//]: # ( Creator Profile ⬇️)
 <div align="center">
 <a href="https://Github.com/YasinDehfuli#README">
-<img src="profile.png" alt="YasinDehfuli's README.md" width="150">
+<img src="profile.png" alt="YasinDehfuli's README.md" width="220">
 </a>
 </div>
 
