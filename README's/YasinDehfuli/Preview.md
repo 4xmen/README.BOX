@@ -1,10 +1,9 @@
-[//]: # ( Screenshot Demo ⬇️ )
 <div align="center">
 
 ## Profile README Demo.
-
 </div>
 
+[//]: # ( Screenshot Demo ⬇️ )
 <div align="center">
 <a href="https://Github.com/YasinDehfuli#README">
 <img src="demo.png" alt="YasinDehfuli's README.md" width="400">
@@ -13,12 +12,10 @@
 
 <div align="center">
 
-[//]: # ( README.md Source Code ⬇️ )
 ## Source Code:
-
 </div>
 
-<div align="center">
+[//]: # ( README.md Source Code ⬇️ )
 ```html
 <div align="center">
 
@@ -114,15 +111,13 @@
 
 <br/>
 ```
-</div>
 
-[//]: # ( Creator Profile ⬇️)
 <div align="center">
 
 ## Created by: Yasin
-
 </div>
 
+[//]: # ( Creator Profile ⬇️)
 <div align="center">
 <a href="https://Github.com/YasinDehfuli#README">
 <img src="profile.png" alt="YasinDehfuli's README.md" width="150">
