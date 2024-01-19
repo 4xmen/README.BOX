@@ -8,8 +8,8 @@ Here, you can view a list of the top GitHub READMEs along with their previews an
 
 ## Top README Profiles
 
-| # |                       Creator 	                        |                            Details 	                            |                                         Preview 	                                         |
-|::|:------------------------------------------------------:|:---------------------------------------------------------------:|:-----------------------------------------------------------------------------------------:|
+| # |                            Logo                            |                                                      Details                                                       |                                        Link                                         |                      Author                       |
+|:-:|:----------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:|:-------------------------------------------------:|
 | 1 |       [Eymen](https://github.com/eymeen#README)        |                       Bash Style README 	                       |    [Preview](https://GitHub.com/4xmen/README.BOX/blob/main/README's/Eymeen/Preview.md)    |
 | 2 |         [D4Fi](https://github.com/D4Fi#README)         |         RGB, Header/Footer SVG, List of Projects & ...          |     [Preview](https://GitHub.com/4xmen/README.BOX/blob/main/README's/D4Fi/Preview.md)     |
 | 3 | [YasinDehfuli](https://github.com/YasinDehfuli#README) | Profile Views, Gif, Skill Table, Contact Button, Most Languages | [Preview](https://GitHub.com/4xmen/README.BOX/blob/main/README's/YasinDehfuli/Preview.md) |
