@@ -15,7 +15,7 @@ Here, you can view a list of the top GitHub READMEs along with their previews an
 | 3 |         [YasinDehfuli](https://github.com/YasinDehfuli#README)         |                   Profile Views, Gif, Skill Table, Contact Button, Most Languages                   | [Preview](https://GitHub.com/4xmen/README.BOX/blob/main/README's/YasinDehfuli/Preview.md)  |
 | 4 |         [smart-person](https://github.com/smart-person#README)         |                    Simple, Header/Footer, TypeJS, Skills*, WormGif, VisitorCount                    | [Preview](https://GitHub.com/4xmen/README.BOX/blob/main/README's/smart-person/Preview.md)  |
 | 5 |        [alidehkhodaei](https://github.com/alidehkhodaei#README)        |                                         Simple, Banner Text                                         | [Preview](https://GitHub.com/4xmen/README.BOX/blob/main/README's/alidehkhodaei/Preview.md) |
-| 6 | [SeyyedAmirNimaGhaebi](https://github.com/SeyyedAmirNimaGhaebi#README) | WormGif, JsonBanner, Contact, StoryLine, Most Languages, PortfolioBanners, Certificates, View Count | [Preview](https://GitHub.com/4xmen/README.BOX/blob/main/README's/alidehkhodaei/Preview.md) |
+| 6 | [SeyyedAmirNimaGhaebi](https://github.com/SeyyedAmirNimaGhaebi#README) | WormGif, JsonBanner, Contact, StoryLine, Most Languages, PortfolioBanners, Certificates, View Count | [Preview](https://GitHub.com/4xmen/README.BOX/blob/main/README's/SeyyedAmirNimaGhaebi/Preview.md) |
 
 
 ## Top README Generators & Tools
