@@ -18,7 +18,8 @@ repository, and make use of them.
 | 4 |         [smart-person](https://github.com/smart-person#README)         |                    Simple, Header/Footer, TypeJS, Skills*, WormGif, VisitorCount                    |     [Preview](https://GitHub.com/4xmen/README.BOX/blob/main/README's/smart-person/Preview.md)     |
 | 5 |        [alidehkhodaei](https://github.com/alidehkhodaei#README)        |                                         Simple, Banner Text                                         |    [Preview](https://GitHub.com/4xmen/README.BOX/blob/main/README's/alidehkhodaei/Preview.md)     |
 | 6 | [SeyyedAmirNimaGhaebi](https://github.com/SeyyedAmirNimaGhaebi#README) | WormGif, JsonBanner, Contact, StoryLine, Most Languages, PortfolioBanners, Certificates, View Count | [Preview](https://GitHub.com/4xmen/README.BOX/blob/main/README's/SeyyedAmirNimaGhaebi/Preview.md) |
-| 7 |         [Saeid-Soodi ](https://github.com/Saeid-Soodi#README)          |                           TypeJs, ProfilePic, TopLanguages, MostLanguages                           |     [Preview](https://GitHub.com/4xmen/README.BOX/blob/main/README's/Saeid-Soodi/Preview.md)      |
+| 7 |         [Saeid-Soodi](https://github.com/Saeid-Soodi#README)          |                           TypeJs, ProfilePic, TopLanguages, MostLanguages                           |     [Preview](https://GitHub.com/4xmen/README.BOX/blob/main/README's/Saeid-Soodi/Preview.md)      |
+| 8 |         [itsnooshin](https://github.com/itsnooshin#README)          |                      AnimationEmoji, CuteHero, AboutMe, MostLanguagesWithIcon                       |      [Preview](https://GitHub.com/4xmen/README.BOX/blob/main/README's/itsnooshin/Preview.md)      |
 
 ## Top README Generators & Tools
 
