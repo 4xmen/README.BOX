@@ -1,12 +1,11 @@
 <img src="src/REAME.BOX.Logo.png" width="200" height="155" align="right" />
 
 # List of best Profile README's & Tools
+> <p align="center"> <i> A curated list of awesome profile README's with preview</i> </p>
 
-> A curated list of awesome profile README's with preview
-
-Here, you can view a list of the top GitHub READMEs along with their previews and the creator of each README.
-Additionally, explore the best README generators and any other features related to GitHub README profiles in this
-repository, and make use of them.
+Here, you can view a list of the top GitHub READMEs, their previews, and the creator of each README.
+Also, you can explore the best README generators and any other features related to GitHub README profiles in this
+repository, and use them.
 
 ## Top README Profiles
 
