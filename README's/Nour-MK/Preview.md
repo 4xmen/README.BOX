@@ -5,8 +5,8 @@
 
 [//]: # ( Screenshot Demo ⬇️ )
 <div align="center">
-<a href="https://Github.com/itsnooshin#README">
-<img src="demo.png" alt="itsnooshin's README.md" width="600">
+<a href="https://Github.com/NourMostafa#README">
+<img src="demo.png" alt="Nour-MK's README.md" width="600">
 </a>
 </div>
 
@@ -64,12 +64,12 @@ Bachelor of Science in Computer Engineering, American University of Ras Al Khaim
 
 <div align="center">
 
-## Created by: Saeid-Soodi
+## Created by: Nour-MK
 </div>
 
 [//]: # ( Creator Profile ⬇️)
 <div align="center">
-<a href="https://Github.com/itsnooshin#README">
-<img src="profile.png" alt="itsnooshin's README.md" width="220">
+<a href="https://Github.com/Nour-MK#README">
+<img src="profile.png" alt="Nour-MK's README.md" width="220">
 </a>
 </div>
