@@ -6,7 +6,7 @@
 [//]: # ( Screenshot Demo ⬇️ )
 <div align="center">
 <a href="https://Github.com/NourMostafa#README">
-<img src="demo.png" alt="Nour-MK's README.md" width="600">
+<img src="demo.jpeg" alt="Nour-MK's README.md" width="600">
 </a>
 </div>
 
