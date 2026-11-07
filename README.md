@@ -31,7 +31,6 @@ repository, and use them.
 | 4 | <img src="src/logos/rahuldkjain.github.io.png" width="24"> |  open source tool to create GitHub profile README with the latest add-ons like visitors count, GitHub stats, etc.  | [rahuldkjain.github.io](https://rahuldkjain.github.io/gh-profile-readme-generator/) |   [Rahul Jain](https://github.com/rahuldkjain)    |
 | 5 |      <img src="src/logos/shields.io.png" width="24">       |                               Useful github Concise, consistent, and legible badges                                |                          [shields.io](https://shields.io/)                          |  [olivierlacan](https://github.com/olivierlacan)  |
 | 6 | <img src="https://raw.githubusercontent.com/dturovskiy/deus-commit-chart/main/assets/deus-apps-logo.svg?v=2" width="24" /> | Static GitHub contribution charts as README-safe SVGs via GitHub Actions or local Git. 30/90/365-day ranges, no live chart backend. | [GitHub Marketplace](https://github.com/marketplace/actions/deus-commit-chart) | [dturovskiy](https://github.com/dturovskiy) |
-
 | 7 |  | Explore GitHub activity as animated 3D planets and create shareable profile cards and GIFs. | [GitHub Planet](https://githubplanet.dev/) | [nitr0yukkuri](https://github.com/nitr0yukkuri) |
 
 ## Contributing
